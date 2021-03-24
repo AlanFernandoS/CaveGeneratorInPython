@@ -16,11 +16,11 @@ You can see the Jupyter notebook to discover how the magic is happening
 
 * Create a random matrix with 0 (Free space) and 1 (Wall), conserving the border.
 
-  ![RandomMatrix](CaveGeneratorInPython\RandomMatrix.png)
+  ![RandomMatrix](RandomMatrix.png)
 
 * Soft the map, based on neighbor's  ceil in every one. P.D. you can select the iteration loops
 
-  ![SoftedMap](CaveGeneratorInPython\SoftedMap.png)
+  ![SoftedMap](SoftedMap.png)
 
 * Find the regions
 
