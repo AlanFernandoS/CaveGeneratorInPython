@@ -1,6 +1,6 @@
 
 
-# CaveGeneratorInPython
+# Procedural Cave generation in Python
 
 Procedural Cave generation
 
