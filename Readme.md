@@ -16,23 +16,23 @@ You can see the Jupyter notebook to discover how the magic is happening
 
 * Create a random matrix with 0 (Free space) and 1 (Wall), conserving the border.
 
-  ![RandomMatrix](C:\Users\alanf\Documents\Alan\MaestriaPicyt\Cuatrimestre II\Robotica\CaveGeneratorInPython\RandomMatrix.png)
+  ![RandomMatrix](CaveGeneratorInPython\RandomMatrix.png)
 
 * Soft the map, based on neighbor's  ceil in every one. P.D. you can select the iteration loops
 
-  ![SoftedMap](C:\Users\alanf\Documents\Alan\MaestriaPicyt\Cuatrimestre II\Robotica\CaveGeneratorInPython\SoftedMap.png)
+  ![SoftedMap](CaveGeneratorInPython\SoftedMap.png)
 
 * Find the regions
 
-  ![RegionedMap](C:\Users\alanf\Documents\Alan\MaestriaPicyt\Cuatrimestre II\Robotica\CaveGeneratorInPython\RegionedMap.png)
+  ![RegionedMap](RegionedMap.png)
 
 * Clean the regions that are so little
 
-  ![CleannedMap](C:\Users\alanf\Documents\Alan\MaestriaPicyt\Cuatrimestre II\Robotica\CaveGeneratorInPython\CleannedMap.png)
+  ![CleannedMap](CleannedMap.png)
 
 * Connect the regions, with a passage
 
-  ![ConnectedMap](C:\Users\alanf\Documents\Alan\MaestriaPicyt\Cuatrimestre II\Robotica\CaveGeneratorInPython\ConnectedMap.png)
+  ![ConnectedMap](ConnectedMap.png)
 
 ## It's free to use only, pliss let us in the greetings and share this project, to build something more awesome
 
