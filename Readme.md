@@ -33,6 +33,8 @@ You can see the Jupyter notebook to discover how the magic is happening
 * Connect the regions, with a passage
 
   ![ConnectedMap](ConnectedMap.png)
+## You can open the project into a google Collab
+https://colab.research.google.com/github/AlanFernandoS/CaveGeneratorInPython/blob/master/WorldGeneration.ipynb?authuser=2
 
 ## It's free to use only, pliss let us in the greetings and share this project, to build something more awesome
 
