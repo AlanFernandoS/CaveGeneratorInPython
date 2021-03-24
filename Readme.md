@@ -40,7 +40,7 @@ You can see the Jupyter notebook to discover how the magic is happening
 * This project works, but if you find something that don't work, please be free to do it and upload it
 * If you can help to this project with a donation, it will be so cool for us
 
-	## Helpers of the project
+## Helpers of the project
 
 * Sebastian League (Created for Unity 3D)
 * Alan Fernando (Converted the C# code to Python code)
